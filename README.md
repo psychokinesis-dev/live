@@ -9,7 +9,7 @@
 - 基于开放的去中心化网络，搭建方便
 
 ## 下载
-二进制包的下载链接请访问 [Release 页面]()。
+二进制包的下载链接请访问 [Release 页面](https://github.com/psychokinesis-dev/live/releases)。
 
 ## 构建
 ### 安装依赖
